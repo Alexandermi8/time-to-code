@@ -1,3 +1,3 @@
 # The Time
 
-It is time to code.
+It is time to code!
